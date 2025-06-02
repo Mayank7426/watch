@@ -1,5 +1,6 @@
 .main {
     background: linear-gradient(60deg, #26b5ef, transparent);
+    height: 100vh;
 }
 .login {
     text-align: center;
@@ -28,7 +29,7 @@
     background: linear-gradient(55deg, green, transparent);
     text-align: center;
     padding: 187px 15px;
-    height: 100ph;
+    height: 100vh;
     
 }
 .loging h2 {
