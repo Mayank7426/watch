@@ -382,6 +382,11 @@ ul#nvi li a:hover {
     border: 1px solid;
     padding: 6px 20px;
 }
+.logout button{
+    padding: 10px 10px;
+    background-color: red;
+    border-radius: 10%;
+}
 
 @media (min-width: 320px) and (max-width:720px){
 
