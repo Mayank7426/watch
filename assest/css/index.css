@@ -4,7 +4,7 @@
 .login {
     text-align: center;
     margin: auto;
-    padding: 116px 10px;
+    padding: 187px 10px;
 }
 .login a {
     text-decoration: none;
@@ -27,7 +27,8 @@
 .loging {
     background: linear-gradient(55deg, green, transparent);
     text-align: center;
-    padding: 55px 15px;
+    padding: 187px 15px;
+    
 }
 .loging h2 {
     font-size: 20px;
