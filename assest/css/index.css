@@ -1,10 +1,10 @@
-.body {
+.main {
     background: linear-gradient(60deg, #26b5ef, transparent);
 }
 .login {
     text-align: center;
     margin: auto;
-    padding: 187px 10px;
+    padding: 1px 10px;
 }
 .login a {
     text-decoration: none;
